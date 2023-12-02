@@ -1,0 +1,159 @@
+*{
+    margin:0;
+}
+
+
+header{
+    background-color: black;
+ backdrop-filter: opacity() ;
+ position: fixed;
+ width: 100%;
+}
+
+.bg-img{
+    background-image :  url(https://images.freecreatives.com/wp-content/uploads/2016/04/Abstract-Website-Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+
+.front_page{
+    text-align: center;
+    color: azure;
+  padding-top: 7rem;
+  font-family: Arial, Helvetica, sans-serif; 
+
+ 
+}
+.name{
+    font-size: 5rem;
+    font-weight: bolder;
+    margin-top: 7rem;
+  
+}
+h3{
+    padding-top: 1rem;
+ color: aqua;
+   
+}
+.reach{
+    padding-top: 2rem;
+    font-size: 2rem;
+word-spacing: 2rem;
+}
+
+#github{
+    height: 2.3em;
+    width: 1.8em;
+    border-radius: 20%;
+    padding-bottom: 1rem;
+   margin:.5rem;
+}
+#linkedin{
+    height: 2.3em;
+    width: 1.8em;
+    border-radius: 20%;
+    padding-bottom: 1rem;
+   margin:.5rem;
+}
+#mail{
+    height: 2.3em;
+    width: 1.8em;
+    border-radius: 20%;
+    padding-bottom: 1rem;
+   margin:.5rem;
+}
+#cv{
+    height: 2.3em;
+    width: 1.8em;
+    border-radius: 20%;
+    padding-bottom: 1rem;
+   margin:.5rem;
+
+}
+
+.content{
+    padding: 3rem 6rem;
+ 
+
+}
+
+p{
+    font-size: 2rem
+}
+.about{
+    text-decoration: underline;
+    margin-bottom: 2rem;
+}
+#about{
+    color:#97a4b2;
+    line-height: 2;
+   
+}
+.dp{
+float: left;
+margin-right:3rem ;
+border: 3px solid black;
+border-radius: 50%;
+
+}
+#skill{
+    padding-top: 8rem;
+    
+    
+
+}
+.skill-img{
+   float: right;
+
+}
+.move{
+    text-align: center;
+margin-left: 25rem;
+
+}
+.carousel-control-next{
+    left:20rem;
+}
+
+li{
+    line-height: 3rem;
+    font-size: 1.5rem;
+}
+#project{
+   
+    text-align: center;
+        
+    }
+
+    .card-deck{
+        margin: 2rem 10rem;
+          }
+          
+    #contactme{
+        padding-top: 2rem;
+        font-size: 2rem;
+        text-align: center;
+word-spacing: rem;
+
+    }
+    .footer{
+        background-color:#495057 ;
+        text-align: center;
+        color: azure;
+        padding: 2px ;
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted ;
+        border-color: grey;
+        border-width: 5px;
+        width : 100%;
+     
+    }
+    .everything{
+        background-color: azure;
+        color:#97a4b2;
+
+    }
